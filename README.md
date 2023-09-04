@@ -2,10 +2,6 @@
 
 > 🔎 A simple example of using REST-API in java with React Front-End consumption.
 
-## ⚔️ Challenge
-
-
-
 ## 🚀 Technologies ##
 
 - [Tomcat](https://tomcat.apache.org)
